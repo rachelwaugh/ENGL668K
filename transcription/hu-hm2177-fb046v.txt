@@ -1,21 +1,18 @@
-            <lg>
-               <l>Originality does not commit</l>
-               <l><del>or words &amp; names, or <unclear reason="illegible"
-                  >stides</unclear></del></l>
-               <l>or combinations of mine &amp;</l>
-               <l>language different from those</l>
-               <l>which fave you <unclear reason="illegible"> fatron, it</unclear></l>
-               <l>does not commist why in <unclear reason="illegible">woodly</unclear></l>
-               <l>a usual <unclear reason="illegible">thaner</unclear></l>
-
-               <l>*460 [Portion below is written upside down]</l>
-               <l><del>A melancholy gladness</del></l>
-               <l>let me think that this looked</l>
-               <l>of the <del>bringing regretting</del></l>
-               <l><unclear reason="illegible">root margins</unclear>&amp; <unclear
-                     reason="illegible">sammy goolp</unclear></l>
-               <l><unclear reason="illegible"><hi rend="underline">Remember horror
-                     may</hi></unclear></l>
-               <l>into these hues &amp; saints may help</l>
-               <l>A portion</l>
-            </lg>
+            <l>Originality does not commit</l>
+            <l><del>or words &amp; names, or <unclear reason="illegible"
+               >stides</unclear></del></l>
+            <l>or combinations of mine &amp;</l>
+            <l>language different from those</l>
+            <l>which have you <unclear reason="illegible"> fatron, it</unclear></l>
+            <l>does not commist why in <unclear reason="illegible">woodly</unclear></l>
+            <l>a usual <unclear reason="illegible">thaner</unclear></l>
+            <hi rend="up-down"><l>*460</l>
+            <l><del>A melancholy gladness</del></l>
+            <l>let me think that this looked</l>
+               <l>of the <unclear reason="illegible"><del>bringing regretting</del></unclear></l>
+            <l><unclear reason="illegible">root margins</unclear>&amp; <unclear
+               reason="illegible">sammy goolp</unclear></l>
+            <l><unclear reason="illegible"><hi rend="underline">Remember honor
+               may</hi></unclear></l>
+            <l>into these hues &amp; saints may help</l>
+            <l>A portion</l></hi>
