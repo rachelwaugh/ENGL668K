@@ -15,12 +15,12 @@
 <l><del rend = “strikethrough”>Die fied<unclear>in the to the</del> living weeds</l>
 <l>Let me <del rend = “strikethrough”>Whose child I</del>think thy spirit feels</l>
 <l>Within its <del rend = “strikethrough”><unclear></del> life intense and mild</l>
-The [-g??? living-] love of living [-flower-] saves
-among these tombs of ruins wild
-[-could I believe that-]
-Originality does not consist
-??? words ?? ??? or str??
-or combinations of mind &
-language different from ???
-Which have you ?? it
-does not consist only if ??
+<l>The <del rend = "strikethrough">g<unclear reason="illegible" extent="3" unit="chars"></unclear> living </del> love of living <del rend = "strikethrough">flower</del> saves</l>
+<l>among these tombs of ruins wild</l>
+<l><del rend = "strikethrough">could I believe that</del></l>
+<l>Originality does not consist</l>
+<l><unclear reason="illegible" extent="2" unit="chars"></unclear> words <unclear reason="illegible" extent="4" unit="chars"></unclear> or str<unclear reason="illegible" extent="2" unit="chars"></unclear></l>
+<l>or combinations of mind &</l>
+<l>language different from <unclear reason="illegible" extent="2" unit="chars"></unclear></l>
+<l>Which have you <unclear reason="illegible" extent="3" unit="chars"></unclear>it </l>
+<l>does not consist only if <unclear reason="illegible" extent="1" unit="chars"></unclear></l>
