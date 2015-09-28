@@ -5,7 +5,7 @@
 <l>My lost William,<del rend = “strikethrough”><unclear></del>thou in whom</l>
 <l>Some <superscript>bright</superscript><del rend = “strikethrough”>sweet</del>spirit lived and did</l>
 <l>That decaying robe consume</l>
-<l>Which its  <del rend = “strikethrough”><unclear></del><superscript><unclear> faintly</superscript> faintly hid</l>
+<l>Which its<del rend = “strikethrough”><unclear></del><superscript><unclear>faintly</superscript> faintly hid</l>
 <l><del rend = “strikethrough”>be the thy remains</del></l>
 <l>Here its as<unclear>find a tomb</l>
 <l><del rend = “strikethrough”>Under</del> <superscript>But be</superscript>neath this pyramid</l>
