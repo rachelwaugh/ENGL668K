@@ -1,21 +1,20 @@
+*461
 With what truth I may say
 Roma Roma Roma
-Non e puis come era prima (no longer as it was before)
-My lost William, thou in whom
-Some bright spirit lived and did
+<!--Italian-->Non e puis come era prima</!--Italian-->
+My lost William,<del rend = “strikethrough”><unclear></del>thou in whom
+Some <superscript>bright</superscript><del rend = “strikethrough”>sweet</del>spirit lived and did
 That decaying robe consume
-Which its history faintly hid
-[-Too often they unwind-]
-I ??? it is find a tomb
-That be
-[-under-]neath this pyramid
-[-Dig they graves. If those not die-]
-Rest thy bones . . . then is a shrine
-Where art thou my gentle child [-lay-]
-[-Dignified other living words-]
-Let me 
-[-whose childe I-] think thy spirit feels
-Within its [???] interior mild
+Which its  <del rend = “strikethrough”><unclear></del><superscript><unclear> faintly</superscript> faintly hid
+<del rend = “strikethrough”>be the thy remains</del>
+Here its as<unclear>find a tomb
+<del rend = “strikethrough”>Under</del> <superscript>But be</superscript>neath this pyramid
+<del rend = “strikethrough”>Lay thy bones if - thou canst die</del>
+<del rend = “strikethrough”>Rest thy bones - then is a shrine</del>
+Where art thou <del rend = “strikethrough”>you</del> my gentle <del rend = “strikethrough”>boy</del><superscript>child</superscript>
+<del rend = “strikethrough”>Die fied<unclear>in the to the</del> living weeds
+Let me <del rend = “strikethrough”>Whose child I</del>think thy spirit feels
+Within its <del rend = “strikethrough”><unclear></del> life intense and mild
 The [-g??? living-] love of living [-flower-] saves
 among these tombs of ruins wild
 [-could I believe that-]
