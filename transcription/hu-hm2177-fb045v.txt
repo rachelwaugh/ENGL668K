@@ -1,6 +1,8 @@
-<vertical><margin>[-Think not ???-] of flattery ??</vertical></margin>
+<vertical><margin><del rend = "strikethrough">Think not god</del rend = "strikethrough"> of flattery
+<del rend = “strikethrough”>He</del> </vertical></margin>
 Thou art not... if a thing divine
-like thou, can die- thy funeral shrine
-is thy mother's [-heart-] grief & mine
-<unclear>nevgun Twrdyxdwr dsl sdx lzs</unclear>
+like thee, can die- thy funeral shrine
+is thy mother's <del>heart</del> <subscript/>grief<subscript/> & mine <superscript>heart</superscript> & mine
+			
+<!--Greek-->ρννη<unclear>η Τηναγαζων α<unclear>αηζ<!--Greek>
 <uncear>[scrawl]</unclear>
