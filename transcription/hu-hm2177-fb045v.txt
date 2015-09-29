@@ -1,5 +1,5 @@
-<line><vertical><margin><del rend = "strikethrough">Think not god</del rend = "strikethrough"> of flattery</line>
-<line><del rend = “strikethrough”>He</del> </vertical></margin></line>
+<line><vertical><margin><del rend = "strikethrough">Think not god</del rend ="strikethrough"> of flattery</line>
+<line><del rend =“strikethrough”>He</del> </vertical></margin></line>
 <line>Thou art not... if a thing divine</line>
 <line>like thee, can die- thy funeral shrine</line>
 <line>is thy mother's <del>heart</del> <subscript/>grief<subscript/> & mine <superscript>heart</superscript>& mine</line>
