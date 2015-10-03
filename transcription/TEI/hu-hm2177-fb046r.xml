@@ -4,37 +4,65 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
+    <zone type= library>
+    <line>*450</line>
+    </zone>
+    <zone type="left_margin" rotate="270"><line><del rend = "strikethrough">Think not god</del> of flattery</line>
+<line><del rend = "strikethrough">He</del></line>
+</zone>
+<zone type="main">
+    <line>Thou art not... if a thing divine</line>
+<line>Like thee, can die- thy funeral shrine</line>
+<line>Is thy mother's <del>heart</del> <sublinear/>grief<sublinear/> &amp; mine <superlinear>heart</superlinear> &amp; mine</line>
+</zone>
+<zone>
+<space dim="vertical" unit="lines" extent="5"/>			
+<line><!--Greek-->ρννη<unclear reason="illegible" extent="3" unit="chars">η Τηναγαζων α<unclear reason="illegible" extent="3" unit="chars">αηζ</!--Greek></line>
+<line><unclear><!--scrawl--></unclear></line>
+</zone>
+</surface>
+<surface>
+    <zone type= library>
     <line>*461</line>
-<line>With what truth I may say</line>
+    </zone>
+<zone = "main">
+    <line>With what truth I may say</line>
 <line>Roma Roma Roma</line>
 <line><!--Italian-->Non e puis come era prima</!--Italian--></line>
-<line>My lost William,<del rend = “strikethrough”><unclear></del>thou in whom</line>
-<line>Some <superscript>bright</superscript><del rend = “strikethrough”>sweet</del>spirit lived and did</line>
-<line>That decaying robe consume</l>
-<line>Which its<del rend = "strikethrough"><unclear></del><superscript><unclear>faintly</superscript> faintly hid</line>
+<line>My lost William<del rend = “strikethrough”><unclear reason="illegible" extent="2" unit="words"></del>thou in whom</line>
+<line>Some <superlinear>bright</superlinear><del rend = “strikethrough”>sweet</del>spirit lived, and did</line>
+<line>That decaying robe consume</line>
+<line>Which its<del rend = "strikethrough"><unclear reason="illegible" extent="2" unit="words"></del><superlinear><unclear reason="illegible" extent="1" unit="word">faintly</superlinear>hid</line>
 <line><del rend = "strikethrough">be the thy remains</del></line>
-<line>Here its as<unclear>find a tomb</line>
-<line><del rend = "strikethrough">Under</del> <superscript>But be</superscript>neath this pyramid</line>
+<line>Here its ashes find a tomb</line>
+<line><del rend = "strikethrough">Under</del> <superlinear>But be</superlinear>neath this pyramid</line>
 <line><del rend = "strikethrough">Lay thy bones if - thou canst die</del></line>
 <line><del rend = "strikethrough">Rest thy bones - then is a shrine</del></line>
-<line>Where art thou <del rend = “strikethrough”>you</del> my gentle <del rend = "strikethrough">boy</del><superscript>child</superscript></line>
+<line>Where art thou <del rend = “strikethrough”>you</del> my gentle <del rend = "strikethrough">boy</del><superlinear>child</superlinear></line>
 <line><del rend = "strikethrough">Die fied<unclear>in the to the</del> living weeds</line>
-<line>Let me <del rend = "strikethrough">Whose child I</del>think thy spirit feels</line>
+<line>Let me<del rend = "strikethrough">Whose child I</del>think thy spirit feels</line>
 <line>Within its <del rend = "strikethrough"><unclear></del> life intense and mild</line>
-<line>The <del rend = "strikethrough">g<unclear reason="illegible" extent="3" unit="chars"></unclear> living </del> love of living <del rend = "strikethrough">flower</del> saves</line>
-<line>among these tombs of ruins wild</line>
-<line><del rend = "strikethrough">could I believe that</del></line>
-<line>Originality does not consist</line>
-<line><unclear reason="illegible" extent="2" unit="chars"></unclear> words <unclear reason="illegible" extent="4" unit="chars"></unclear> or str<unclear reason="illegible" extent="2" unit="chars"></unclear></line>
-<line>or combinations of mind &amp; </line>
-<line>language different from <unclear reason="illegible" extent="2" unit="chars"></unclear></line>
-<line>Which have gone before <unclear reason="illegible" extent="2" unit="chars"></unclear>it </line>
-<line>does not consist only if <unclear reason="illegible" extent="1" unit="chars"></unclear></line>
-<line>a<unclear reason="illegible" extent="1"unit="chars"</line>
-</line><!--upside down>A melancholy gladness</line>
+<line>The<del rend = "strikethrough">g<unclear reason="illegible" extent="3" unit="chars"></unclear> living </del> love of living <del rend = "strikethrough">flower</del> saves</line>
+<line>Among these tombs of ruins wild</line>
+<line><del rend = "strikethrough">Could I believe that</del></line>
+</zone>
+</surface>
+<surface>
+    <zone>
+        <line>Originality does not consist</line>
+<line><del rend= "strikethrough">of words &amp; names, or stories</del></line>
+<line>or combinations of metre &amp;</line>
+<line>language different from those</line>
+<line>which have gone before, it</line>
+<line>does not consist only in <unclear reason="illegible" extent="6" unit="chars"</unclear></line>
+<line> a res<unclear reason="illegible" extent="3" unit="chars"</unclear></line>
+</zone>
+<space dim="vertical" unit="lines" extent="2"/>	
+<zone type="main" rotate="180"><line>A melancholy gladness</line>
 <line> Let me think that this</line>
-<line>Of the <del rend = "strikethrough"> living breathing</del rend = "strikethrough"></line>
+<line>Of the<del rend = "strikethrough">living breathing</del rend = "strikethrough"></del></line>
 <line>An unknown honor may</line>
-<line>With these hues and <unclear reason="illegible" extent="1"unit="chars" may help</line>
-<line>A portion</!--upside down></line>
+<line>With these hues and <unclear reason="illegible" extent="1"unit="chars"></unclear> may help</line>
+<line>A portion</line>
+</zone>
 </surface>
