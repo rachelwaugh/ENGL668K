@@ -18,6 +18,7 @@
 	</zone>
 			
 <zone type = "bottom">
+	<handShift new ="pbs"/>
 	<line><!--Greek-->ρννη<unclear>η Τηναγαζων α<unclear>αηζ</!--Greek></line>
 	<line><uncear><!--scrawl--></unclear></line>
 </zone>
