@@ -8,16 +8,16 @@
     	<line>*450</line>
     	</zone>
 <zone type="left_margin" rotate="90">
-    <line><vertical><margin><del rend = "strikethrough">Think not god</del rend = "strikethrough"> of flattery</line>
-	<line><del rend = "strikethrough">He</del> </vertical></margin></line>
+    <line><del rend ="strikethrough">Think not god</del rend ="strikethrough"> of flattery</line>
+	<line><del rend ="strikethrough">He</del></line>
 	</zone>
-    <zone type = "main">
+    <zone type ="main">
 	<line>Thou art not... if a thing divine</line>
 	<line>like thee, can die- thy funeral shrine</line>
 	<line>is thy mother's <del>heart</del> <subscript/>grief<subscript/> &amp; mine <superscript>heart</superscript> &amp; mine</line>
 	</zone>
 			
-<zone type = "bottom">
+<zone type ="bottom">
 	<handShift new ="pbs"/>
 	<line><!--Greek-->ρννη<unclear>η Τηναγαζων α<unclear>αηζ</!--Greek></line>
 	<line><uncear><!--scrawl--></unclear></line>
