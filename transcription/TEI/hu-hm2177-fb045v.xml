@@ -2,12 +2,6 @@
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
-<teiHeader>
-    <fileDesc>
-        <titleStmt>
-            <title>My lost William</title>
-        </titleStmt>
-        <publicationStmt>
 
             <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#">
                 xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216"> <graphic
@@ -33,11 +27,4 @@
                     <line><unclear reason="illegible"/></line>
                 </zone>
             </surface>
-        </publicationStmt>
-        <sourceDesc>
-            <msDesc>
-                <msIdentifier>MS HM 2177</msIdentifier>
-            </msDesc>
-        </sourceDesc>
-    </fileDesc>
-</teiHeader>
+
