@@ -45,9 +45,7 @@
                     <line>Within its <del rend="strikethrough"><unclear reason="illegible"/></del>
                         life intense and mild</line>
                     <line>The <del rend="strikethrough">g<unclear reason="illegible" extent="3"
-                                unit="chars"/> living </del> love of living <del
-                            rend="strikethrough">flower</del>
-                        <handShift new="pbs"> saves </handShift></line>
+                                unit="chars"/> living </del> love of living <mod> <del rend="strikethrough">flowers</del> <add place="superlinear">leaves</add> </mod></line>
                     <line>among these tombs of ruins wild</line>
                     <line>
                         <del rend="strikethrough">could I believe that</del>
