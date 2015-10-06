@@ -7,7 +7,7 @@
     <zone type ="top right margin">
     	<line>*450</line>
     	</zone>
-    <zone type = "left margin">
+<zone type="left_margin" rotate="90">
     <line><vertical><margin><del rend = "strikethrough">Think not god</del rend = "strikethrough"> of flattery</line>
 	<line><del rend = "strikethrough">He</del> </vertical></margin></line>
 	</zone>
