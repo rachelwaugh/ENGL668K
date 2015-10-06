@@ -4,17 +4,6 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
-    <zone type="main">
-        <line>Originality does not commit</line>
-        <line><unclear reason="illegible" extent="2" unit="chars"/> words <unclear
-                reason="illegible" extent="4" unit="chars"/> or str<unclear reason="illegible"
-                extent="2" unit="chars"/></line>
-        <line>or combinations of mine &amp;</line>
-        <line>language different from those</line>
-        <line>which have you <unclear reason="illegible"> fatron, it</unclear></line>
-        <line>does not commist only <unclear reason="illegible" extent="5" unit="chars"/></line>
-        <line>a usual <unclear reason="illegible">thaner</unclear></line>
-    </zone>
     <zone type="library">
         <line>*460</line>
     </zone>
@@ -37,5 +26,16 @@
 
         <line>into these hues &amp; saints may help</line>
         <line>A portion</line>
+    </zone>
+        <zone type="main">
+        <line>Originality does not commit</line>
+        <line><unclear reason="illegible" extent="2" unit="chars"/> words <unclear
+                reason="illegible" extent="4" unit="chars"/> or str<unclear reason="illegible"
+                extent="2" unit="chars"/></line>
+        <line>or combinations of mine &amp;</line>
+        <line>language different from those</line>
+        <line>which have you <unclear reason="illegible"> fatron, it</unclear></line>
+        <line>does not commist only <unclear reason="illegible" extent="5" unit="chars"/></line>
+        <line>a usual <unclear reason="illegible">thaner</unclear></line>
     </zone>
 </surface>
