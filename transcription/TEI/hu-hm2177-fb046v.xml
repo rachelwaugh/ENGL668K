@@ -4,37 +4,38 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046v.jpg"/>
-    
-    <teiHeader> <fileDesc> <titleStmt>
-<title>My lost William</title> </titleStmt> <publicationStmt>
-    
-    
-    
-             <zone type="main">
-            <line>Originality does not commit</line>
-        <line><unclear reason="illegible" extent="2" unit="chars"></unclear> words <unclear reason="illegible" extent="4" unit="chars"></unclear> or str<unclear reason="illegible" extent="2" unit="chars"></unclear></line>
-            <line>or combinations of mine &amp;</line>
-            <line>language different from those</line>
-            <line>which have you <unclear reason="illegible"> fatron, it</unclear></line>
-            <line>does not commist only <unclear reason="illegible" extent="5" unit="chars"></unclear</line>
-            <line>a usual <unclear reason="illegible" extent="5"unit="chars">thaner</unclear></line>
-            </zone>
-            <zone type="library"><line>*460</line>
-            </zone>
-            <zone type = "up-down">
-            <line><del rend ="strikethrough">A melancholy gladness</del></line>
-            <line>let me think that this looked</line>
-            <line>of the <unclear reason="illegible"><del rend ="strikethrough">bringing regretting</del></unclear></line>
-            <line><unclear reason="illegible">root margins</unclear>&amp; <unclear
-               reason="illegible">sammy goolp</unclear></line>
-            <line><unclear reason="illegible" extent="1"unit="chars"><hi rend="underline">Remember honor
-               may</hi></unclear></line>
-            <line>into these hues &amp; saints may help</line>
-            <line>A portion</line></hi>
-         </zone>
+    <zone type="main">
+        <line>Originality does not commit</line>
+        <line><unclear reason="illegible" extent="2" unit="chars"/> words <unclear
+                reason="illegible" extent="4" unit="chars"/> or str<unclear reason="illegible"
+                extent="2" unit="chars"/></line>
+        <line>or combinations of mine &amp;</line>
+        <line>language different from those</line>
+        <line>which have you <unclear reason="illegible"> fatron, it</unclear></line>
+        <line>does not commist only <unclear reason="illegible" extent="5" unit="chars"/></line>
+        <line>a usual <unclear reason="illegible">thaner</unclear></line>
+    </zone>
+    <zone type="library">
+        <line>*460</line>
+    </zone>
+    <zone type="up-down">
+        <line>
+            <del rend="strikethrough">A melancholy gladness</del>
+        </line>
+        <line>let me think that this looked</line>
+        <line>of the <unclear reason="illegible"><del rend="strikethrough">bringing
+                regretting</del></unclear></line>
+        <line><unclear reason="illegible">root margins</unclear>&amp; <unclear reason="illegible"
+                >sammy goolp</unclear></line>
+        <line>
+            <unclear reason="illegible">
+                <hi rend="underline">Remember honor may</hi>
+            </unclear>
+        </line>
+
+        <!--Remove this HI REND UNDERLINE-->
+
+        <line>into these hues &amp; saints may help</line>
+        <line>A portion</line>
+    </zone>
 </surface>
-
-
-
-</publicationStmt> <sourceDesc> <msDesc>
-<msIdentifier>MS HM 2177</msIdentifier> </msDesc> </sourceDesc> </fileDesc> </teiHeader>
