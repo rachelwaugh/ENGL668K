@@ -19,7 +19,7 @@
 			
 <zone type ="bottom">
 	<handShift new ="pbs"/>
-	<line><tagUsage gi="foreign" render="#greek">ρννη<unclear>η Τηναγαζων α<unclear>αηζ</tagUsage></line>
+	<line><tagUsage gi="foreign" render="#gc">ρννη<unclear>η Τηναγαζων α<unclear>αηζ</tagUsage></line>
 	<line><uncear><!--scrawl--></unclear></line>
 </zone>
 </surface>
