@@ -4,6 +4,11 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
+    
+    <teiHeader> <fileDesc> <titleStmt>
+<title>My lost William</title> </titleStmt> <publicationStmt>
+    
+    
     <zone type="left_margin">
     <line>*461</line>
     </zone>
@@ -29,3 +34,6 @@
         <line><del rend ="strikethrough">could I believe that</del></line>
         </zone>
         </surface>
+        
+        </publicationStmt> <sourceDesc> <msDesc>
+<msIdentifier>MS HM 2177</msIdentifier> </msDesc> </sourceDesc> </fileDesc> </teiHeader>
