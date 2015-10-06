@@ -11,20 +11,20 @@
         <line>With what truth I may say</line>
         <line><tagUsage gi="foreign" render="#it">Roma Roma Roma</tagUsage></line>
         <line><tagUsage gi="foreign" render="#it">Non e puis come era prima</tagUsage></line>
-        <line>My lost William,<del rend = "strikethrough"><unclear></del>thou in whom</line>
+        <line>My lost William,<del rend = "strikethrough"><unclear reason="illegible"></del>thou in whom</line>
         <line>Some <add place="superlinear">bright</add><del rend = "strikethrough">sweet</del>spirit lived and did</line>
         <line>That decaying robe consume</l>
-        <line>Which its<del rend = "strikethrough"><unclear></del><add place="superlinear"><unclear>faintly</add> faintly hid</line>
+        <line>Which its<del rend = "strikethrough"><unclear reason="illegible"></del><add place="superlinear"><unclear reason="illegible">faintly</add> faintly hid</line>
         <line><del rend = "strikethrough">be the thy remains</del></line>
-        <line>Here its as<unclear>find a tomb</line>
+        <line>Here its as<unclear reason="illegible">find a tomb</line>
         <line><del rend = "strikethrough">Under</del> <add place="superlinear">But be</add>neath this pyramid</line>
         <line><del rend = "strikethrough">Lay thy bones if - thou canst die</del></line>
         <line><del rend = "strikethrough">Rest thy bones - then is a shrine</del></line>
         <line>Where art thou <del rend = "strikethrough">you</del> my gentle <del rend = "strikethrough">boy</del><add place="superlinear">child</add></line>
-        <line><del rend = "strikethrough">Die fied<unclear>in the to the</del> living weeds</line>
+        <line><del rend = "strikethrough">Die fied<unclear reason="illegible">in the to the</del> living weeds</line>
         <line>Let me <del rend = "strikethrough">Whose child I</del>think thy spirit feels</line>
-        <line>Within its <del rend = "strikethrough"><unclear></del> life intense and mild</line>
-        <line>The <del rend = "strikethrough">g<unclear reason="illegible" extent="3" unit="chars"></unclear> living </del> love of living <del rend = "strikethrough">flower</del> <handShift new ="pbs"> saves </handShift></line>
+        <line>Within its <del rend = "strikethrough"><unclear reason="illegible"></del> life intense and mild</line>
+        <line>The <del rend = "strikethrough">g<unclear reason="illegible" reason="illegible" extent="3" unit="chars"></unclear> living </del> love of living <del rend = "strikethrough">flower</del> <handShift new ="pbs"> saves </handShift></line>
         <line>among these tombs of ruins wild</line>
         <line><del rend = "strikethrough">could I believe that</del></line>
         </zone>
