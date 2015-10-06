@@ -4,10 +4,10 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
-    <zone type ="left margin">
+    <zone type="left margin">
     <line>*461</line>
     </zone>
-    <zone type ="main">
+    <zone type="main">
         <line>With what truth I may say</line>
         <line><tagUsage gi="foreign" render="#it">Roma Roma Roma</tagUsage></line>
         <line><tagUsage gi="foreign" render="#it">Non e puis come era prima</tagUsage></line>
