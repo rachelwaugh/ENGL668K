@@ -1,34 +1,43 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#">
-    xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
-    <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
-    
-    
-    <teiHeader> <fileDesc> <titleStmt>
-<title>My lost William</title> </titleStmt> <publicationStmt>
-    
-    
-    <zone type ="top right margin">
-    	<line>*450</line>
-    	</zone>
-<zone type="left margin" rotate="90">
-      <line><del rend ="strikethrough">Think not god</del> of flattery</line>
-	<line><del rend ="strikethrough">He</del></line>
-	</zone>
-    <zone type="main">
-	<line>Thou art not... if a thing divine</line>
-	<line>like thee, can die- thy funeral shrine</line>
-	<line>is thy mother's <del>heart</del> <subscript/>grief<subscript/> &amp; mine <add place="superlinear">heart</add> &amp; mine</line>
-	</zone>
-			
-<zone type="bottom">
-	<handShift new ="pbs"/>
-	<line><tagUsage gi="foreign" render="#gc">ρννη<unclear>η Τηναγαζων α<unclear>αηζ</tagUsage></line>
-	<line><uncear reason = "illegible"></unclear></line>
-</zone>
-</surface>
-</publicationStmt> <sourceDesc> <msDesc>
-<msIdentifier>MS HM 2177</msIdentifier> </msDesc> </sourceDesc> </fileDesc> </teiHeader>
+
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>My lost William</title>
+        </titleStmt>
+        <publicationStmt>
+
+            <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#">
+                xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216"> <graphic
+                    url="../../images/hu-hm2177-fb045v.jpg"/>
+                <zone type="top right margin">
+                    <line>*450</line>
+                </zone>
+                <zone type="left margin" rotate="90">
+                    <line><del rend="strikethrough">Think not god</del> of flattery</line>
+                    <line><del rend="strikethrough">He</del></line>
+                </zone>
+                <zone type="main">
+                    <line>Thou art not... if a thing divine</line>
+                    <line>like thee, can die- thy funeral shrine</line>
+                    <line>is thy mother's <del>heart</del>
+                        <subscript/>grief<subscript/> &amp; mine <add place="superlinear"
+                            >heart</add> &amp; mine</line>
+                </zone>
+                <zone type="bottom">
+                    <handShift new="pbs"/>
+                    <line><tagUsage gi="foreign" render="#gc">ρννη<unclear/>η Τηναγαζων
+                            α<unclear/>αηζ</tagUsage></line>
+                    <line><unclear reason="illegible"/></line>
+                </zone>
+            </surface>
+        </publicationStmt>
+        <sourceDesc>
+            <msDesc>
+                <msIdentifier>MS HM 2177</msIdentifier>
+            </msDesc>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
