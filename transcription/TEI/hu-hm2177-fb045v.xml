@@ -8,7 +8,7 @@
     	<line>*450</line>
     	</zone>
 <zone type="left_margin" rotate="90">
-    <line><del rend ="strikethrough">Think not god</del rend ="strikethrough"> of flattery</line>
+      <line><del rend ="strikethrough">Think not god</del> of flattery</line>
 	<line><del rend ="strikethrough">He</del></line>
 	</zone>
     <zone type ="main">
