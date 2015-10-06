@@ -1,3 +1,5 @@
+<teiHeader> <fileDesc> <titleStmt>
+<title>My lost William</title> </titleStmt> <publicationStmt>
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -23,3 +25,5 @@
 	<line><uncear reason = "illegible"></unclear></line>
 </zone>
 </surface>
+</publicationStmt> <sourceDesc> <msDesc>
+<msIdentifier>MS HM 2177</msIdentifier> </msDesc> </sourceDesc> </fileDesc> </teiHeader>
