@@ -19,7 +19,9 @@
             <line>does not commist only <unclear reason="illegible" extent="5" unit="chars"></unclear</line>
             <line>a usual <unclear reason="illegible" extent="5"unit="chars">thaner</unclear></line>
             </zone>
-            <zone type="up-down><l>*460</l></line>
+            <zone type="library"><l>*460</l></line>
+            </zone>
+            <zone type = "up-down">
             <line><del rend ="strikethrough">A melancholy gladness</del></line>
             <line>let me think that this looked</line>
             <line>of the <unclear reason="illegible"><del rend ="strikethrough">bringing regretting</del></unclear></line>
