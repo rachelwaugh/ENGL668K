@@ -20,8 +20,8 @@
                         <mod>
                                     <add place = "superlinear">heart</add>
                                     <add place ="sublinear">grief</add>
-                                    <del rend= "strikethrough">heart</del>
-                        </mod>            
+                        </mod>    
+                        <mod><del rend= "strikethrough">heart</del></mod>
                         &amp; mine</line>
                 </zone>
                 <zone type="bottom margin">
