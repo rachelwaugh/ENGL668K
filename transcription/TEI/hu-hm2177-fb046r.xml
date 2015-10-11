@@ -69,7 +69,7 @@
                         life intense <add place="superscript">&amp; mild</add></line>
                     <line>The <del rend="strikethrough">grass</del>
                         <mod>
-                                    <add place="superscript"> love </add>
+                                    <add place="superlinear">love</add>
                                     <del rend="strikethrough">living</del>
                         </mod>
                           of living 
