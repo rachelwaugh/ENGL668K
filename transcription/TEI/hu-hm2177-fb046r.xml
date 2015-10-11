@@ -77,8 +77,8 @@
                         </mod>
                           of living 
                          <mod> 
-                                    <add place="superlinear">leaves</add>
                                     <add place="sublinear">&amp; weeds</add>
+                                    <add place="superlinear">leaves</add>
                                     <del rend="strikethrough">flowers</del> 
                          </mod>
                          </line>
