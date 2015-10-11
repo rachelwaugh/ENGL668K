@@ -20,8 +20,7 @@
                                     <add place ="superlinear">My lost William</add>
                                     <del rend ="strikethrough">ruined creature</del>
                         </mod>
-                               thou in whom
-                        </line>
+                               thou in whom</line>
                     <line>Some 
                     <mod>
                          <add place="superlinear">bright</add>
@@ -52,6 +51,7 @@
                         <del rend="strikethrough">Rest thy bones - then is a shrine</del>
                     </line>
                     <line> from thy</line>
+                    
                     <line>Where art thou <del rend="strikethrough">you</del> my gentle <del
                             rend="strikethrough">boy</del><add place="superlinear"
                         >child</add></line>
