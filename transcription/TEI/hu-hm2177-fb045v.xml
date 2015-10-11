@@ -13,7 +13,7 @@
                     <line><del rend="strikethrough">Think not god</del> of flattery</line>
                     <line><del rend="strikethrough">He</del></line>
                 </zone>
-                <space dim="vertical" unit="lines" extent="9"/>
+                
                 <zone type="main">
                     <line>Thou art not... if a thing divine</line>
                     <line>like thee, can die- thy funeral shrine</line>
@@ -25,7 +25,7 @@
                         </mod>    
                         &amp; mine</line>
                 </zone>
-            <space dim="vertical" unit="lines" extent="5"/>
+                
                 <zone type="bottom_margin">
                    <handShift new="pbs"/>
                     <line><tagUsage gi="foreign" render="#gc">ρννη<unclear/>η Τηναγαζων
