@@ -15,26 +15,43 @@
                     <line>
                         <tagUsage gi="foreign" render="#it">Non e puis come era prima</tagUsage>
                     </line>
-                    <line>My lost William,<del rend="strikethrough"><unclear reason="illegible"
-                            /></del>thou in whom</line>
-                    <line>Some <add place="superlinear">bright</add><del rend="strikethrough"
-                            >sweet</del>spirit lived and did</line>
+                    <line>
+                        <mod>
+                                    <add place ="superlinear">My lost William</add>
+                                    <del rend ="strikethrough">ruined creature</del>
+                        </mod>
+                               thou in whom
+                        </line>
+                    <line>Some 
+                    <mod>
+                         <add place="superlinear">bright</add>
+                         <del rend="strikethrough">sweet</del>
+                        </mod>
+                        spirit lived and did</line>
                     <line>That decaying robe consume</line>
-                    <line>Which its<del rend="strikethrough"><unclear reason="illegible"/></del><add
-                            place="superlinear"><unclear reason="illegible"/>faintly</add> faintly
+                    <line>Which its
+                        <mod>
+                          <add place= "superlinear">lustre faintly</add>
+                          <del rend="strikethrough">gentle lust</del>
+                        </mod>  
                         hid</line>
                     <line>
                         <del rend="strikethrough">be the thy remains</del>
                     </line>
-                    <line>Here its as<unclear reason="illegible"/>find a tomb</line>
-                    <line><del rend="strikethrough">Under</del>
-                        <add place="superlinear">But be</add>neath this pyramid</line>
+                    <line>Here its ashes find a tomb</line>
                     <line>
-                        <del rend="strikethrough">Lay thy bones if - thou canst die</del>
+                          <mod>
+                                <add place= "superlinear">But be</add>                             
+                                <del rend="strikethrough">Under</del>
+                          </mod>
+                        neath this pyramid</line>
+                    <line>
+                        <del rend="strikethrough">Lay thy bones if - <rend="underline">thou</rend> canst die</del>
                     </line>
                     <line>
                         <del rend="strikethrough">Rest thy bones - then is a shrine</del>
                     </line>
+                    <line> from thy</line>
                     <line>Where art thou <del rend="strikethrough">you</del> my gentle <del
                             rend="strikethrough">boy</del><add place="superlinear"
                         >child</add></line>
