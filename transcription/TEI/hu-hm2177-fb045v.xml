@@ -26,7 +26,7 @@
                         &amp; mine</line>
                 </zone>
             <space dim="vertical" unit="lines" extent="5"/>
-                <zone type="bottom margin">
+                <zone type="bottom_margin">
                    <handShift new="pbs"/>
                     <line><tagUsage gi="foreign" render="#gc">ρννη<unclear/>η Τηναγαζων
                             α<unclear/>αηζ</tagUsage></line>
