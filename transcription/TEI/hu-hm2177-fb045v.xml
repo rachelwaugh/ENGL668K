@@ -9,12 +9,13 @@
                 <zone type="library">
                     <line>*450</line>
                 </zone>
-            <space dim="vertical" unit="lines" extent="9"/>
-                <zone type="left margin" rotate="90">
+                <zone type="left_margin" rotate="90">
                     <line><del rend="strikethrough">Think not god</del> of flattery</line>
                     <line><del rend="strikethrough">He</del></line>
                 </zone>
+                
                 <zone type="main">
+                            <space dim="vertical" unit="lines" extent="9"/>
                     <line>Thou art not... if a thing divine</line>
                     <line>like thee, can die- thy funeral shrine</line>
                     <line>is thy mother's
@@ -25,9 +26,10 @@
                         </mod>    
                         &amp; mine</line>
                 </zone>
-            <space dim="vertical" unit="lines" extent="5"/>
+            
                 <zone type="bottom margin">
-                    <handShift new="pbs"/>
+                   <space dim="vertical" unit="lines" extent="5"/>
+                   <handShift new="pbs"/>
                     <line><tagUsage gi="foreign" render="#gc">ρννη<unclear/>η Τηναγαζων
                             α<unclear/>αηζ</tagUsage></line>
                     <line><unclear reason="illegible"/></line>
