@@ -18,10 +18,10 @@
                     <line>like thee, can die- thy funeral shrine</line>
                     <line>is thy mother's
                         <mod>
+                                    <mod><del rend= "strikethrough">heart</del></mod>
                                     <add place = "superlinear">heart</add>
                                     <add place ="sublinear">grief</add>
                         </mod>    
-                        <mod><del rend= "strikethrough">heart</del></mod>
                         &amp; mine</line>
                 </zone>
                 <zone type="bottom margin">
