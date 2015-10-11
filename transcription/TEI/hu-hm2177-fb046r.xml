@@ -70,8 +70,10 @@
                     <line>The 
                         <mod>
                                     <del rend="strikethrough">grass</del>
+                                    <mod>
                                     <add place="superlinear">love</add>
                                     <del rend="strikethrough">living</del>
+                                    </mod>
                         </mod>
                           of living 
                          <mod> 
