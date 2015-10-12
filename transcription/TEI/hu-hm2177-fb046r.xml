@@ -65,7 +65,16 @@
                                     <del rend="strikethrough">Whose child I</del>
                           </mod>
                         think thy spirit feeds</line>
-                    <line>Within its <del rend="strikethrough"><unclear reason="illegible"/></del>
+                    <line>Within its 
+                        <mod>
+                                  <mod>
+                                              <add place="superlinear"><del rend="strikethrough">life small</del></add>
+                                    </mod>
+                                  <mod>
+                                              <del rend="strikethrough">young<unclear reason="illegible"/></del>
+                                  </mod>            
+                        </mod>
+                        <del rend="strikethrough"><unclear reason="illegible"/></del>
                         life intense <add place="superlinear">&amp; mild</add></line>
                     <line>The 
                         <mod>
