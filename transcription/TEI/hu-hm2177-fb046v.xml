@@ -13,8 +13,13 @@
         </line>
         <line>Let me think thro low seeds</line>
         <line>Of the  <del rend="strikethrough">living breathing</del></line>
-        <line>Sweet flowers &amp; sunny grass</line>
-        <line>An unknown power may</line>
+        <line></line>
+        <line>
+            <mod>
+                <add place="superlinear">Sweet flowers &amp; sunny grass</add>
+            <mod>An unknown power may</mod>
+            </mod>
+            </line>
         <line>
                 <hi rend="underline">An unknown power may</hi>
         </line>
