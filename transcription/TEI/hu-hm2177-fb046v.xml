@@ -24,7 +24,7 @@
         <line>A portion</line>
     </zone>
         
-            <zone type="up-down">
+            <zone type="bottom" rotate="180">
         <line>Originality does not consist</line>
         <line><del rend="strikethrough">in words &amp; names, or stories</del></line>
         <line>or combinations of metre &amp;</line>
