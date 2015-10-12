@@ -17,12 +17,9 @@
         <line>
             <mod>
                 <add place="superlinear">Sweet flowers &amp; sunny grass</add>
-            <mod>An unknown power may</mod>
+            <mod><emph>An unknown power may</emph></mod>
             </mod>
             </line>
-        <line>
-                <hi rend="underline">An unknown power may</hi>
-        </line>
 
         <!--Remove this HI REND UNDERLINE-->
 
