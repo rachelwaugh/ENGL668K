@@ -9,7 +9,7 @@
                 <zone type="library">
                     <line>*450</line>
                 </zone>
-                <zone type="left margin" rotate="90">
+                <zone type="left-margin" rotate="90">
                     <line><del rend="strikethrough">Think not god</del> of flattery</line>
                     <line><del rend="strikethrough">He</del></line>
                 </zone>
@@ -26,7 +26,7 @@
                         &amp; mine</line>
                 </zone>
                 
-                <zone type="bottom margin">
+                <zone type="bottom-margin">
                    <handShift new="pbs"/>
                     <line><tagUsage gi="foreign" render="#gc">ρννη<unclear/>η Τηναγαζων
                             α<unclear/>αηζ</tagUsage></line>
