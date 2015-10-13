@@ -13,7 +13,7 @@
                         <tagUsage gi="foreign" render="#it">Roma Roma Roma</tagUsage>
                     </line>
                     <line>
-                        <tagUsage gi="foreign" render="#it">Non e puis come era prima</tagUsage>
+                        <tagUsage gi="foreign" render="#it">non e puis come era prima</tagUsage>
                     </line>
                     <line>
                         <mod>
@@ -26,7 +26,7 @@
                          <add place="superlinear">bright</add>
                          <del rend="strikethrough">sweet</del>
                         </mod>
-                        spirit lived and did</line>
+                        spirit lived, and did</line>
                     <line>That decaying robe consume</line>
                     <line>Which its
                         <mod>
@@ -35,7 +35,7 @@
                         </mod>  
                         hid</line>
                     <line>
-                        <del rend="strikethrough">be the thy remains</del>
+                        <del rend="strikethrough">be thou thy remains</del>
                     </line>
                     <line>Here its ashes find a tomb</line>
                     <line>
@@ -45,7 +45,7 @@
                           </mod>
                         neath this pyramid</line>
                     <line>
-                        <del rend="strikethrough">Lay thy bones if - thou canst die</del>
+                        <del rend="strikethrough">Lay thy bones if - <underline>thou</underline>canst die</del>
                     </line>
                     <line>
                         <del rend="strikethrough">Rest thy bones - then is a shrine</del>
