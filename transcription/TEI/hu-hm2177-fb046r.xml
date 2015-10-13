@@ -89,7 +89,7 @@
                           
                          <mod> 
                                     <add place="sublinear">&amp; weeds</add>
-                                    <add place="superlinear">leaves</add>
+                                    <add place="superlinear" hand="#pbs1">leaves</add>
                                     <del rend="strikethrough">flowers</del> 
                          </mod>
                          </line>
