@@ -84,7 +84,9 @@
                                     <del rend="strikethrough">living</del>
                                     </mod>
                         </mod>
+                        
                           of living 
+                          
                          <mod> 
                                     <add place="sublinear">&amp; weeds</add>
                                     <add place="superlinear">leaves</add>
@@ -93,6 +95,7 @@
                          </line>
                     <line>among these tombs &amp; ruins wild</line>
                     <line>
+                                
                         <del rend="strikethrough">could I believe that</del>
                     </line>
                 </zone>
