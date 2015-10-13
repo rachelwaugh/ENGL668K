@@ -10,14 +10,14 @@
                     <line>*450</line>
                 </zone>
                 <zone type="left-margin" rotate="90">
-                    <line><del rend="strikethrough">Think not god</del> of flattery</line>
+                    <line><del rend="strikethrough">Think not gold</del> or flattery vile</line>
                     <line><del rend="strikethrough">He</del></line>
                 </zone>
                 
                 <zone type="main">
                     <line>Thou art not... if a thing divine</line>
-                    <line>like thee, can die — thy funeral shrine</line>
-                    <line>is thy mother's
+                    <line>Like thee, can die — thy funeral shrine</line>
+                    <line>Is thy mother's
                         <mod>
                                     <add place = "superlinear">heart</add>
                                     <add place ="sublinear">grief</add>
